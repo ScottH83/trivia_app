@@ -1,24 +1,33 @@
-# README
+#Trivia Quizz
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+View on Heroku: https://young-springs-25310.herokuapp.com/#!/login
 
-Things you may want to cover:
+Trivia Quizz is a app where a user can signup and play a game of trivia, answer multiple questions, and find out their results at the end of the game. The objective was to reinforce some of the following areas:
 
-* Ruby version
+• JavaScript and ES6
 
-* System dependencies
+• Angular, Services, and Controllers
 
-* Configuration
+• Angular States and Routes
 
-* Database creation
+• Consuming APIs
 
-* Database initialization
+• CRUD Behavior
 
-* How to run the test suite
+####Partners:
 
-* Services (job queues, cache servers, search engines, etc.)
+Amineta Lo (Front-End)
 
-* Deployment instructions
+Scott Hsu (Front-End)
 
-* ...
+Doug Eisner (Back-End)
+
+Joe Merchant (Back-End)
+
+##To-Do
+
+• Implement Leaderboard
+
+• Add Form Validation
+
+• Add scores to UserProfile
